@@ -24,9 +24,9 @@ ol {
 .pane-short .container p {
   border: 1px solid royalblue;
 
-  margin: 11px 22px 13px 15;
+  margin: 11px 22px 13px 15px;
 
-  padding: 8px 8px 10px 10px;
+  padding: 8px 10px;
 
   text-decoration: underline solid lawngreen;
 }
@@ -54,7 +54,7 @@ ol {
 
   margin: 5px 10px;
 
-  padding-top: 2px 4px 5px 9px;
+  padding: 2px 4px 5px 9px;
 }
 
 .pane-short .list li {
